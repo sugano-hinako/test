@@ -6,6 +6,7 @@ public class Main {
 		//Main
 		//test_branch
 		System.out.println("Test Branch.");
+		System.out.println("Main Branch.");
 
 	}
 
